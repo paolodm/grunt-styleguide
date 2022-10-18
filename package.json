@@ -43,7 +43,7 @@
     "styledocco": "~0.6.6",
     "less": "1.x.x",
     "kss": "~0.3.6",
-    "stylus": "~0.42.1"
+    "stylus": "~0.54.3"
   },
   "keywords": [
     "gruntplugin",
